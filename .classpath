@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="accessible" pattern="sun"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="environment"/>
+	<classpathentry kind="src" path="Gui_Sprites"/>
+	<classpathentry kind="src" path="Hero"/>
+	<classpathentry kind="src" path="Mobs"/>
+	<classpathentry kind="src" path="sounds"/>
+	<classpathentry kind="src" path="weapons"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
